@@ -31,3 +31,4 @@ print("\nCity-wise Sales and Discounts:")
 for data in city_data:
     print(f"{data['City']}: Sales = {data['Sales']}, Discout = {data['Discount']}")
 
+print("Hello")
